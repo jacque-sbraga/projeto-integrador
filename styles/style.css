@@ -93,6 +93,7 @@ body {
   border: none;
   background-color: #C4C4C4;
   color: #4A4343;
+  font-size: 19px;
 }
 
 .button-entrar {
@@ -102,7 +103,8 @@ body {
   background-color: #C4C4C4;
   padding: 5px 35px;
   margin-top: 100px;
-  transition: 150ms;  
+  transition: 150ms;
+  font-size: 22px;
 }
 
 .button-entrar:hover {
@@ -116,4 +118,10 @@ body {
   border: 1px solid #8D8D8D;
   border-radius: 5px;
   background-color: #C4C4C4;
+}
+
+.span {
+  font-size: 22px;
+  font-weight: 500;
+  margin-right: 15px;
 }
